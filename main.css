@@ -1,0 +1,23 @@
+body {
+  max-width: 960px;
+  margin: 0; }
+
+div {
+  background-color: #999999;
+  float: left;
+  margin: 0 0.75em 0.75em 0;
+  width: 15.625%; }
+
+.hx1 {
+  height: 3em; }
+
+.hx2 {
+  height: 6em; }
+
+.hx3 {
+  height: 9em; }
+
+.hx4 {
+  height: 12em; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,27 @@
+body {
+  max-width: 960px;
+  margin: 0;
+}
+
+div {
+  background-color: #999999;
+  float: left;
+  margin: 0 ((12/16)*1em) ((12/16)*1em) 0;
+  width: (150 / 960) * 100%;
+}
+
+.hx1 {
+  height: 3em;
+}
+
+.hx2 {
+  height: 6em;
+}
+
+.hx3 {
+  height: 9em;
+}
+
+.hx4 {
+  height: 12em;
+}
